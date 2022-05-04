@@ -1,0 +1,93 @@
+@import url("https://fonts.googleapis.com/css?family=Cairo&display=swap");
+
+body {
+  front-family: "cairo" sans-serif;
+  background-image: url(https://images.unsplash.com/photo-1533090161767-e6ffed986c88?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2069&q=80);
+  background-size: cover;
+  text-align: left;
+  margin: 20px;
+}
+
+h1 {
+  margin-bottom: 0px;
+  font-family: fantasy;
+}
+
+h2 {
+  margin-top: 0px;
+  font-family: fantasy;
+  font-style: italic;
+  front-size: small;
+}
+
+p {
+  front-family: Monospace;
+  font-size: 20px;
+  font-family: monospace;
+}
+
+o-video {
+  max-width: 100%;
+  height: au
+}
+
+iframe{
+    border-width: 0px;
+}
+
+nav {
+  front-family: "cairo" sans-serif;
+  background-color: #2f3542;
+  text-align: left;
+  margin: 20px;
+}
+
+img {
+  width: 450px;
+  border-radius: 8px;
+  border: 1px solid #ddd;
+}
+
+section h2 {
+  margin-bottom: 0px;
+}
+
+section p {
+  margin-top: 0px;
+}
+
+section {
+  background-color: #ced6e0;
+}
+
+.fa {
+  padding: 20px;
+  font-size: 30px;
+  width: 50px;
+  text-align: center;
+  text-decoration: none;
+}
+
+.fa:hover {
+  opacity: 0.7;
+}
+
+.fa-instagram {
+  background: #e056fd;
+  color: white;
+}
+
+.fa-twitter {
+  background: #55acee;
+  color: white;
+}
+
+.fa-youtube {
+  background: #c23616;
+  color: white;
+}
+
+.fa-linkedin {
+  background: #273c75;
+  color: white;
+}
